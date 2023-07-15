@@ -1,0 +1,4 @@
+POST http://localhost:3001/authenticate
+Content-Type: application/json
+
+{ "username": "bima", "password": "password", "first_name": "Maindra" }
